@@ -1,5 +1,5 @@
 const router = require("express").Router();
-const { Campus } = require("../db/models");
+const { Campus } = require("../../db/models");
 
 //returns all campuses
 //localhost:8080/api/campuses
